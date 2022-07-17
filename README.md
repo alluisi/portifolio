@@ -20,11 +20,14 @@ Participei do projeto iLab que proporcionou 6 meses de estudo voltados para acel
 
 ## 🚀 Tecnologias conhecidas
 
+#### Maior prática:
 - [JavaScript](https://www.javascript.com/)
 - [Node.js](https://nodejs.org/)
 - [React](https://pt-br.reactjs.org/)
-- [Material UI](https://mui.com/pt/)
 - [PostgreSQL](https://www.postgresql.org/)
+
+#### Algum conhecimento:
+- [Material UI](https://mui.com/pt/)
 - [Express.js](https://expressjs.com/pt-br/)
 - [Axios](https://axios-http.com/ptbr/docs/intro)
 - [JWT](https://jwt.io/)
@@ -38,6 +41,7 @@ Participei do projeto iLab que proporcionou 6 meses de estudo voltados para acel
 - [Java](https://www.java.com/pt-BR/)
 - [Spring](https://spring.io/)
 - [Apache Maven](https://maven.apache.org/)
+- [MySQL](https://www.mysql.com/)
 - [Docker](https://www.docker.com/)
 - [Kubernetes](https://kubernetes.io/pt-br/)
 - [Apache Kafka](https://kafka.apache.org/)
@@ -45,6 +49,10 @@ Participei do projeto iLab que proporcionou 6 meses de estudo voltados para acel
 - [Redis](https://redis.io/)
 - [Gradle](https://gradle.org/)
 - [Jenkins](https://www.jenkins.io/)
+
+#### Iniciando os estudos:
+- [TypeScript](https://www.typescriptlang.org/)
+- [Angular](https://angular.io/)
 
 ## 💻 Projetos
 ### [Controle de Finanças](https://github.com/alluisi/desafio-modulo-3-ifood-cubos)

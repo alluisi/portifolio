@@ -1,6 +1,6 @@
 import './styles.css';
 
-function Portifolio() {
+function Projects() {
     return(
         <div className='body'>
             <h1>Em construção...</h1>
@@ -8,4 +8,4 @@ function Portifolio() {
     );
 }
 
-export default Portifolio;
+export default Projects;

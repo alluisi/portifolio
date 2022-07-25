@@ -1,4 +1,4 @@
-![](https://media-exp1.licdn.com/dms/image/C4D03AQHiGhoF1QePMQ/profile-displayphoto-shrink_800_800/0/1657133879483?e=1663200000&v=beta&t=C0sboSG_Iv4899ZtkqotyLsC4kUNwnlJkb0UbA7GzwU)
+![](https://uploaddeimagens.com.br/images/003/954/960/original/Sobre.png?1658708145)
 
 <h1 align="center">
   Alessandra Lamas Luisi

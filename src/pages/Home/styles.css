@@ -32,6 +32,8 @@
 }
 
 .apresentacao__btn {
+    all: unset;
+    cursor: pointer;
     width: 200px;
     height: 48px;
     background: #203A4C;
@@ -93,7 +95,7 @@
 }
 
 .sobre-mim__btn {
-    text-decoration: none;
+    background-color: transparent;
     font-family: 'Public Sans', sans-serif;
     font-weight: 400;
     font-size: 12px;

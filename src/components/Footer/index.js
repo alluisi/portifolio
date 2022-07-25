@@ -10,19 +10,19 @@ function Footer() {
     return(
         <footer class="footer">
             <div class="footer-container">
-                <nav class="nav-footer">
+                <div class="nav-footer">
                     <img class="nav-footer" src={logoLight} alt="Logo clara" />
-                    <a class="nav-footer pointer" onClick={() => {navigate('/home')}}>HOME</a>
-                    <a class="nav-footer pointer" onClick={() => {navigate('/portifolio')}}>PORTFOLIO</a>
-                    <a class="nav-footer pointer" onClick={() => {navigate('/contact')}}>CONTATO</a>
-                </nav>
+                    <button class="nav-footer footer-btn" onClick={() => {navigate('/home')}}>HOME</button>
+                    <button class="nav-footer footer-btn" onClick={() => {navigate('/portifolio')}}>PORTFOLIO</button>
+                    <button class="nav-footer footer-btn" onClick={() => {navigate('/contact')}}>CONTATO</button>
+                </div>
                 <div class="social">
-                    <a class="social pointer" href="https://github.com/alluisi" target="_blank">
+                    <button class="social" onClick={() => window.open('https://github.com/alluisi', '_blank')}>
                         <img src={githubLight} alt="GitHub" />
-                    </a>
-                    <a class="social pointer" href="https://www.linkedin.com/in/alessandra-lamas-luisi-64b8b438/" target="_blank">
+                    </button>
+                    <button class="social" onClick={() => window.open('https://www.linkedin.com/in/alessandra-lamas-luisi-64b8b438/', '_blank')}>
                         <img src={linkedinLight} alt="LinkedIn" />
-                    </a>
+                    </button>
                 </div>
             </div>
         </footer>

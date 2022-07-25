@@ -7,27 +7,27 @@ function Header() {
     const navigate = useNavigate();
 
     return(
-        <header class="header">
+        <div class="header">
             <div class="header-container">
                 <div class="logo">
                     <img src={logoDark} alt="Logo escura"/>
                 </div>
-                <nav class="nav-header">
-                    <a
+                <div class="nav-header">
+                    <button
                         class={location.pathname.includes('home') ? 'nav-header color-link' : 'nav-header'}
                         onClick={() => {navigate('/home')}}
-                    >HOME</a>
-                    <a
-                        class={location.pathname.includes('portifolio' || 'projects') ? 'nav-header color-link' : 'nav-header'}
+                    >HOME</button>
+                    <button
+                        class={location.pathname.includes('portifolio') ? 'nav-header color-link' : 'nav-header'}
                         onClick={() => {navigate('/portifolio')}}
-                    >PORTFOLIO</a>
-                    <a
+                    >PORTFOLIO</button>
+                    <button
                         class={location.pathname.includes('contact') ? 'nav-header color-link' : 'nav-header'}
                         onClick={() => {navigate('/contact')}}
-                    >CONTATO</a>
-                </nav>
+                    >CONTATO</button>
+                </div>
             </div>
-        </header>
+        </div>
     );
 }
 

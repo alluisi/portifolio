@@ -14,7 +14,7 @@
 .nav-footer {
     display: flex;
     align-items: center;
-    text-decoration: none;
+    justify-content: space-between;
     font-family: 'Public Sans', sans-serif;
     font-weight: 400;
     font-size: 12px;
@@ -23,10 +23,14 @@
     margin-right: 45px;
 }
 
-.social {
-    margin-left: 16px;
+.footer-btn {
+    all: unset;
+    cursor: pointer;
+    margin-right: 45px;
 }
 
-.pointer {
+.social {
+    all: unset;
     cursor: pointer;
+    margin-left: 16px;
 }

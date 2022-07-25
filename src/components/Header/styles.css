@@ -10,7 +10,7 @@
 }
 
 .nav-header {
-    text-decoration: none;
+    all: unset;
     font-family: 'Public Sans', sans-serif;
     font-weight: 400;
     font-size: 12px;

@@ -1,0 +1,26 @@
+.header {
+    width: 100vw;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 64px 165px;
+}
+
+.nav-header {
+    all: unset;
+    font-family: 'Public Sans', sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    text-transform: uppercase;
+    cursor: pointer;
+    color: #33323D;
+    margin-left: 42px;
+}
+
+.color-link {
+    color: #5FB4A2;
+}

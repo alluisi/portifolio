@@ -1,0 +1,30 @@
+.contato {
+    width: 100vw;
+}
+
+.contato-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 150px 165px;
+}
+
+.h-contato {
+    font-family: 'Ibarra Real Nova', serif;
+    font-weight: 700;
+    font-size: 40px;
+    color: #33323D;
+    max-width: 420px;
+}
+
+.btn-contato {
+    background-color: transparent;
+    font-family: 'Public Sans', sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #33323D;
+    padding: 17px 50px;
+    border: 1px solid #33323D;
+    cursor: pointer;
+}

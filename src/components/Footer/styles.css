@@ -1,0 +1,36 @@
+.footer {
+    display: flex;
+    flex-direction: column;
+    background: #33323D;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 24px 165px;
+}
+
+.nav-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: 'Public Sans', sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-right: 45px;
+}
+
+.footer-btn {
+    all: unset;
+    cursor: pointer;
+    margin-right: 45px;
+}
+
+.social {
+    all: unset;
+    cursor: pointer;
+    margin-left: 16px;
+}

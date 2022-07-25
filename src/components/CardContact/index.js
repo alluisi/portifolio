@@ -7,8 +7,8 @@ function CardContacts() {
     return(
         <div class="contato">
             <div class="contato-container">
-                <h1 class="h-contato">Interessado(a) em fazer projetos comigo?</h1>
-                <a class="btn-contato" onClick={() => {navigate('/contact')}}>CONTATO</a>
+                <span class="h-contato">Interessado(a) em fazer projetos comigo?</span>
+                <button class="btn-contato" onClick={() => {navigate('/contact')}}>CONTATO</button>
             </div>
         </div>
     )

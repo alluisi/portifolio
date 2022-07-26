@@ -24,7 +24,7 @@ function Home() {
                         </a>
                     </div>
                 </div>
-                    <div id="sobre-mim" class="sobre">
+                <div id="sobre-mim" class="sobre">
                     <img class="img-sobre" src={Profile} alt="Foto perfil" />
                     <div class="sobre-mim">
                         <div class="sobre-mim__texto">

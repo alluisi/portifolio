@@ -11,7 +11,10 @@ function AppRoutes() {
         <Route path="/home" element={<Home />} />
         <Route path="/" element={<Navigate to="/home" replace />} />
         <Route path="/portifolio" element={<Portifolio />} />
-        <Route path="/portifolio/projects" element={<Projects />} />
+        <Route path="/portifolio/projects/financas" element={<Projects />} />
+        <Route path="/portifolio/projects/cubos-flix" element={<Projects />} />
+        <Route path="/portifolio/projects/agenda" element={<Projects />} />
+        <Route path="/portifolio/projects/port" element={<Projects />} />
         <Route path="/contact" element={<Contact />} />
       </Routes>
     </Router>

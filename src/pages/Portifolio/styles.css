@@ -6,12 +6,10 @@
 
 .img-portfolio {
     width: 50%;
-    height: 500px;
 }
 
 .container {
     width: 50%;
-    height: 500px;
     display: flex;
     flex-direction: column;
     align-items: center;

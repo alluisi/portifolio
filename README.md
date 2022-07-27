@@ -1,4 +1,4 @@
-![](https://uploaddeimagens.com.br/images/003/954/960/original/Sobre.png?1658708145)
+![](https://uploaddeimagens.com.br/images/003/959/862/full/Sobre.png?1658964810)
 
 <h1 align="center">
   Alessandra Lamas Luisi

@@ -32,8 +32,8 @@ function Home() {
                             <span class="sobre-mim__p">
                                 Sou uma desenvolvedor full-stack júnior, mas confesso ter preferência por front-end. Possuo
                                 conhecimento em HTML, CSS, JavaScript, Node.js, SQL e React, mas posso me adaptar para qualquer
-                                ferramenta se necessário. Moro em São Carlos-SP, mas tenho preferência por trabalho remoto e tenho.
-                                Quando não estou codando, poderá me achar fora de casa. Eu adoro ouvir música, estar com pessoas,
+                                ferramenta se necessário. Moro em São Carlos-SP, mas tenho preferência por trabalho remoto. Quando 
+                                não estou codando, poderá me achar fora de casa. Eu adoro ouvir música, dançar, estar com pessoas,
                                 praia e Sol. Eu vou amar se você der uma olhada no meu trabalho.
                             </span>
                         </div>

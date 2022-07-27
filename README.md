@@ -1,4 +1,4 @@
-![](https://uploaddeimagens.com.br/images/003/954/960/original/Sobre.png?1658708145)
+![](https://uploaddeimagens.com.br/images/003/959/862/full/Sobre.png?1658964810)
 
 <h1 align="center">
   Alessandra Lamas Luisi
@@ -55,6 +55,26 @@ Participei do projeto iLab que proporcionou 6 meses de estudo voltados para acel
 - [Angular](https://angular.io/)
 
 ## 💻 Projetos
+### [Agenda pessoal](https://github.com/alluisi/web-fullstack-cubos-academy-ifood/tree/master/modulo-04/front-end/2021-10-26-pratica/exercicios)
+#### [Responsividade](https://github.com/alluisi/web-fullstack-cubos-academy-ifood/tree/master/modulo-04/front-end/2021-10-28-layouts-fluidos-e-responsivos/exercicios)
+![](https://uploaddeimagens.com.br/images/003/939/500/original/responsividade.png?1657656709)
+#### Atividades do Módulo 4 do Curso Intensivo de Desenvolvimento Web Full Stack da Cubos Academy.
+- Essa atividade foi realizada em duas etapas:
+   - A primeira consistia em criar uma aplicação de uma agenda pessoal, onde você pode fazer um cadastro e autenticar-se. Após se autenticar, o usuário pode adicionar, editar, remover e listar contatos em sua agenda.
+   - A segunda etapa consistia em torar o lauout responsivo.
+
+### [Cubos Flix](https://github.com/alluisi/desafio-modulo-2-ifood-cubos)
+![](https://uploaddeimagens.com.br/images/003/939/162/original/cubosFlix.png?1657652865)
+#### Desafio do Módulo 2 do Curso Intensivo de Desenvolvimento Web Full Stack da Cubos Academy.
+- O sistema trata-se de uma aplicação para um serviço de streaming (pense num Netflix) que permita:
+ - Visualização de filmes
+ - Paginação de filmes
+ - Busca de filmes
+ - "Filme do dia"
+ - Modal de filme
+ - Mudança de tema
+- Os dados do website são requisitados da [seguinte API](https://tmdb-proxy.cubos-academy.workers.dev/)
+
 ### [Controle de Finanças](https://github.com/alluisi/desafio-modulo-3-ifood-cubos)
 ![](https://uploaddeimagens.com.br/images/003/939/154/original/dindin.png?1657652371)
 #### Desafio do Módulo 3 do Curso Intensivo de Desenvolvimento Web Full Stack da Cubos Academy.
@@ -69,26 +89,6 @@ Participei do projeto iLab que proporcionou 6 meses de estudo voltados para acel
      - Dia da semana
      - Categoria
      - Valor
-
-### [Cubos Flix](https://github.com/alluisi/desafio-modulo-2-ifood-cubos)
-![](https://uploaddeimagens.com.br/images/003/939/162/original/cubosFlix.png?1657652865)
-#### Desafio do Módulo 2 do Curso Intensivo de Desenvolvimento Web Full Stack da Cubos Academy.
-- O sistema trata-se de uma aplicação para um serviço de streaming (pense num Netflix) que permita:
- - Visualização de filmes
- - Paginação de filmes
- - Busca de filmes
- - "Filme do dia"
- - Modal de filme
- - Mudança de tema
-- Os dados do website são requisitados da [seguinte API](https://tmdb-proxy.cubos-academy.workers.dev/)
-
-### [Agenda pessoal](https://github.com/alluisi/web-fullstack-cubos-academy-ifood/tree/master/modulo-04/front-end/2021-10-26-pratica/exercicios)
-#### [Responsividade](https://github.com/alluisi/web-fullstack-cubos-academy-ifood/tree/master/modulo-04/front-end/2021-10-28-layouts-fluidos-e-responsivos/exercicios)
-![](https://uploaddeimagens.com.br/images/003/939/500/original/responsividade.png?1657656709)
-#### Atividades do Módulo 4 do Curso Intensivo de Desenvolvimento Web Full Stack da Cubos Academy.
-- Essa atividade foi realizada em duas etapas:
-   - A primeira consistia em criar uma aplicação de uma agenda pessoal, onde você pode fazer um cadastro e autenticar-se. Após se autenticar, o usuário pode adicionar, editar, remover e listar contatos em sua agenda.
-   - A segunda etapa consistia em torar o lauout responsivo.
 
 ### [Portifólio](https://github.com/alluisi/desafio-frontend-modulo1-integral)
 ![](https://uploaddeimagens.com.br/images/003/939/561/original/portifolio.png?1657658764)

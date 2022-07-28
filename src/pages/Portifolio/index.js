@@ -60,7 +60,7 @@ function Portifolio() {
                     </div>
                     <button class="container__btn" onClick={() => {navigate('/portifolio/projects/port')}}>VER PORTFOLIO</button>
                 </div>
-                <img class="img-portfolio" src={PrimeiroPort} alt="Primeiro Portfolio" />
+                <img class="img-portfolio border" src={PrimeiroPort} alt="Primeiro Portfolio" />
             </div>
             <CardContacts />
             <Footer />

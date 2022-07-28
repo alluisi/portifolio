@@ -8,6 +8,10 @@
     width: 50%;
 }
 
+.border {
+    border: #FFF solid 4px;
+}
+
 .container {
     width: 50%;
     display: flex;
